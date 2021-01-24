@@ -12,6 +12,7 @@ class Test
     puts "sum = #{add}"
   end
 end
+
 test=Test.new(1,"math")
 test.sum(3)
 
